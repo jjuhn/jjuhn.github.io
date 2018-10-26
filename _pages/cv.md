@@ -9,13 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Resume [Download]({{ site.url }}/files/ResumeJJ.pdf)
+[Download]({{ site.url }}/files/ResumeJJ.pdf)
 
-
- 
-Teaching
-------
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
