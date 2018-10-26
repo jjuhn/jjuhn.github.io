@@ -11,42 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Masters in Computer Science in Data Science(in progress), University of Illinois Urbana Champaign
+* B.S in Cell biology and Genetics, University of British Columbia
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* University of British Columbia - Centre for Applied Neurogenetics, Application Developer
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* BC Cancer Agency, Computational Biologist(Data Engineer)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+* ZE Powergroup, Application Developer 
+    * Github University
+    * Duties included: Merging pull requests
+    * Supervisor: Professor Hub
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Machine Learning
+    * Classification
+    * Regression
+    * Feature Engineering
+    * Data Cleaning
+    
+* Statistics
+    * Regression
+    * Bayesian Modelling
+      
+* Programming
+    * Python
+    * R
+    * Java
+    * C++
+    * Linux
+    
+* Database Management
+    * Postgresql
+    * Oracle
+    * MSSQL
+    
+* Data Visualization
+    * Tableau
+    * Plot.ly
+    * D3.js
+    * Bokeh
+    
   
 Teaching
 ======
@@ -54,6 +70,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

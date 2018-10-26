@@ -1,6 +1,6 @@
 ---
 title: "Recommendation Engine"
-excerpt: "Recommendation Engine in Python <br/><img src='/images/500x300.png'>"
+excerpt: "Recommendation Engine using Python <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
