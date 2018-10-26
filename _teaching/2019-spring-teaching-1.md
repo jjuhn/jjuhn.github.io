@@ -3,7 +3,7 @@ title: "Coding in Python"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-teaching-1
-venue: "BL UBC"
+venue: "BLUBC"
 date: 2019-01-01
 location: "Vancouver, Canada"
 ---

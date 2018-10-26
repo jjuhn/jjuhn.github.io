@@ -3,7 +3,7 @@ title: "Buzz Words: AI, Machine Learning, Deep Learning and Big Data"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-spring-teaching-2
-venue: "BL UBC"
+venue: "BLUBC"
 date: 2019-01-01
 location: "Vancouver, Canada"
 ---
