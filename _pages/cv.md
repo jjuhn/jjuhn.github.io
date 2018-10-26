@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download]({{ site.url }}/files/ResumeJJ.pdf)
+
 Education
 ======
 * Masters in Computer Science in Data Science(in progress), University of Illinois Urbana Champaign
