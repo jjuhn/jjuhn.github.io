@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-[Download]({{ site.url }}/files/ResumeJJ.pdf)
-
+Resume [Download]({{ site.url }}/files/ResumeJJ.pdf)
+<!--
 Education
-======
+------
 * Masters in Computer Science in Data Science(in progress), University of Illinois Urbana Champaign
 * B.S in Cell biology and Genetics, University of British Columbia
 
 
 Work experience
-======
+------
 * University of British Columbia - Centre for Applied Neurogenetics, Application Developer
   * Github University
   * Duties included: Tagging issues
@@ -36,7 +36,7 @@ Work experience
 
 
 Skills
-======
+------
 * Machine Learning
     * Classification
     * Regression
@@ -65,9 +65,10 @@ Skills
     * D3.js
     * Bokeh
     
-  
+ -->
+ 
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
