@@ -1,6 +1,6 @@
 ---
-title: "Exploring AWS/Lambda/EMR for Categorization Analysis"
-excerpt: "Using Bayesian Logistic regression model in R programming language<br/><img src='/images/500x300.png'>"
+title: "Allocating Donations to the most suitable charity based on donor’s preferences In Canada"
+excerpt: "Exploring AWS/Lambda/EMR for Categorization Analysis<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
