@@ -1,6 +1,6 @@
 ---
 title: "Allocating Donations to the most suitable charity based on donor’s preferences In Canada"
-excerpt: "Exploring AWS/Lambda/EMR for Categorization Analysis<br/><img src='/images/500x300.png'>"
+excerpt: "Exploring AWS/Lambda/EMR for Categorization Analysis<br/><img src='/images/donate.jpeg'>"
 collection: portfolio
 ---
 
