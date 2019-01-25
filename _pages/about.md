@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist. 
-
+Hello! 
